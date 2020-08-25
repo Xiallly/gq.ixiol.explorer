@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixiol.Explorer", "Ixiol.Explorer\Ixiol.Explorer.csproj", "{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E3B3F42-F998-4E24-9C86-F84CE5A2D49D}
+	EndGlobalSection
+EndGlobal
