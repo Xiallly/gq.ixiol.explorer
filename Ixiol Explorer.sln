@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixiol.Explorer", "Ixiol.Explorer\Ixiol.Explorer.csproj", "{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixiol.Explorer.Installer", "Ixiol.Explorer.Installer\Ixiol.Explorer.Installer.csproj", "{25BEBA9A-828D-4007-A59E-A3A35A425B64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25BEBA9A-828D-4007-A59E-A3A35A425B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BEBA9A-828D-4007-A59E-A3A35A425B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BEBA9A-828D-4007-A59E-A3A35A425B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BEBA9A-828D-4007-A59E-A3A35A425B64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

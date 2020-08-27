@@ -1,0 +1,19 @@
+﻿<app>
+  <pages>
+    <page name="main_page" id="1">
+      <page_link>
+        <form>
+          
+        </form>
+      </page_link>
+    </page>
+  </pages>
+  <appinfo>
+    <package_name>
+      gq.ixiol.explorer
+    </package_name>
+    <app_name>
+      Ixiol Explorer
+    </app_name>
+  </appinfo>
+</app>

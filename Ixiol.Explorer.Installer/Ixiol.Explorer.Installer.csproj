@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0D8C291A-6FB7-48B1-A5C4-7A6365BF9A12}</ProjectGuid>
+    <ProjectGuid>{25BEBA9A-828D-4007-A59E-A3A35A425B64}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ixiol.Explorer</RootNamespace>
-    <AssemblyName>Ixiol.Explorer</AssemblyName>
+    <RootNamespace>Ixiol.Explorer.Installer</RootNamespace>
+    <AssemblyName>Ixiol.Explorer.Installer</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,7 +65,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -79,18 +78,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="app.xml" />
-    <None Include="Resources\icons8-user-folder-97.png" />
-    <None Include="Resources\icons8-add-folder-97.png" />
-    <None Include="Resources\icons8-pictures-folder-97.png" />
-    <None Include="Resources\icons8-archive-folder-97.png" />
-    <None Include="Resources\icons8-movies-folder-97.png" />
-    <None Include="Resources\icons8-cloud-folder-97.png" />
-    <None Include="Resources\icons8-folder-97.png" />
-    <None Include="Resources\icons8-documents-folder-97.png" />
-    <None Include="Resources\icons8-music-folder-97.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

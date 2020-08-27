@@ -117,32 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="icons8-documents-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-documents-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-music-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-music-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-cloud-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-cloud-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-movies-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-movies-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-archive-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-archive-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-pictures-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-pictures-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-add-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-add-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="icons8-user-folder-97" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-user-folder-97.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD/I8dX/yLJiP8iyYj/IsmI/yLJiP8iyYj/IsmI/yLJiP8iyYj/IsmI/yLJiP8j
+        x1cAAAAAAAAAAAAAAAD/Kb0y/ye8YwAAAAAAAAAAAAAAAP8lvjf/JrxE/ya8RP8lvjcAAAAAAAAAAAAA
+        AAD/J7xj/ym9MgAAAAAAAAAA/yyvQP8sr0D/Lq+A/y6vgP8ur4D/LK9AAAAAAAAAAAD/LK9A/yyvQP8s
+        r0D/LK9A/yyvQP8sr0AAAAAAAAAAAP80n0D/NJ9A/zShgP80oYD/NJ9AAAAAAAAAAAAAAAAA/zSfQP80
+        n0D/NJ9A/zSfQP80n0D/NJ9AAAAAAAAAAAD/OJNA/ziTQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAD/OJNA/ziTQAAAAAAAAAAA/0CHQP9Ah0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA/0CHQP9Ah0AAAAAAAAAAAP9EeED/RHhAAAAAAAAAAAD/SXkV/2KXvf9s
+        osD/bKLA/2OZvP9AcxQAAAAAAAAAAP9EeED/RHhAAAAAAAAAAAD/TGxA/0xsQAAAAAAAAAAA/0ltFf9s
+        a7j/d2q2/3dqtv9sa7j/TWYUAAAAAAAAAAD/TGxA/0xsQAAAAAAAAAAA/09dN/9RW5H/UVyI/1FciP9R
+        XIj/UVyI/1FciP9RXIj/UVyI/1FciP9RXIj/UVyI/1Fbkf9QWjYAAAAAAAAAAP9mZgX/V0+V/1dPeAAA
+        AAD/WU4X/1ZOdv9YToP/WE6D/1dPeP9ZThcAAAAA/1ZOef9WTpT/QEAEAAAAAAAAAAAAAAAA/11AYP9d
+        QMP/XUAsAAAAAP9vZnH/cWiw/3FosP9vZnEAAAAA/15DLv9cQMT/XUBgAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD/VSsG/2QznP9VOQn/truS/7W7//+1u///tbqR/1U5Cf9kM5z/VSsGAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAP9kIRf/aCSO/6Vr6/+7h///u4f//6Nq6/9oJI7/ZCEXAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAP+RPFr/hC6V/4Qulf+SOVkAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAA//8AAMADAACcOQAAgYEAAIOBAACf+QAAn/kAAJgZAACYGQAAgAEAAIgRAADEIwAA4AcAAPAP
+        AAD8PwAA//8AAA==
+</value>
   </data>
 </root>
